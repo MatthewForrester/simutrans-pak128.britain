@@ -72,6 +72,7 @@ brake_force=8
 rolling_resistance=19
 
 weight=23
+axle_load=9
 cost=0
 fixed_cost=0
 runningcost=0
