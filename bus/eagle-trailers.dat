@@ -3,7 +3,6 @@ name=EagleTrailerBulk
 copyright=James
 waytype=road
 freight=Kohle
-mixed_load_prohibition=1
 payload=6
 speed=20
 weight=1

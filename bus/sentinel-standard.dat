@@ -9,7 +9,6 @@ engine_type=steam
 smoke=Steam
 waytype=road
 freight=Kohle
-mixed_load_prohibition=1
 payload=4
 power=30
 tractive_effort=3
